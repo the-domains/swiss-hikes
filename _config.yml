@@ -1,4 +1,3 @@
-layout_spectrum: 0.2826729263179004
 typography_spectrum: 0.7329801074229181
 color:
   brandStrength: 0.548353138146922
@@ -11,4 +10,8 @@ color:
     - '#FFFFFF'
     - '#FFC0A9'
     - '#FF8598'
-name: Swiss Hikes
+layout_spectrum: 0.2826729263179004
+author:
+  name: Hugues Brat
+  email: hugobene@gmail.com
+name: Lights
