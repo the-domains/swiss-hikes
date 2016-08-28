@@ -1,16 +1,16 @@
-layout_spectrum: 0.10293330415152013
-typography_spectrum: 0.6939741931855679
+typography_spectrum: 0.7329801074229181
 color:
-  brandStrength: 0.3024781532585621
-  lightness: 0.8147282651625574
-  saturation: 0.6251496730837971
-  rhythmicContrast: 0.45018040016293526
+  brandStrength: 0.548353138146922
+  lightness: 0.769042962230742
+  saturation: 0.7204696137923747
+  rhythmicContrast: 0.08705933159217238
   brandColors:
-    - '#304269'
-    - '#91BED4'
-    - '#D9E8F5'
+    - '#7D8A2E'
+    - '#C9D787'
     - '#FFFFFF'
-    - '#F26101'
+    - '#FFC0A9'
+    - '#FF8598'
+layout_spectrum: 0.2826729263179004
 author:
   name: Hugues Brat
   email: hugobene@gmail.com
