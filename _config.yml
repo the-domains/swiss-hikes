@@ -1,14 +1,18 @@
-layout_spectrum: 0.2826729263179004
-typography_spectrum: 0.7329801074229181
+layout_spectrum: 0.10293330415152013
+typography_spectrum: 0.6939741931855679
 color:
-  brandStrength: 0.548353138146922
-  lightness: 0.769042962230742
-  saturation: 0.7204696137923747
-  rhythmicContrast: 0.08705933159217238
+  brandStrength: 0.3024781532585621
+  lightness: 0.8147282651625574
+  saturation: 0.6251496730837971
+  rhythmicContrast: 0.45018040016293526
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-name: Swiss Hikes
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+author:
+  name: Hugues Brat
+  email: hugobene@gmail.com
+name: Lights
+title: Swiss Hikes
